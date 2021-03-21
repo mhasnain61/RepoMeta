@@ -1,0 +1,11 @@
+The first task I accomplished by making sure Git was installed on the Linux server. 
+I used "script filename" to log my session and I started to create my repository. I
+created a repository on Github and then I linked it with my Linux terminal. I used
+the https link to connect the two so I could push files into my repository. From there,
+I just used what I knew to create and push files to the repository.
+
+Task 2 was more difficult to do from the terminal because I don't have permissions to create 
+an SVN repository. So, as an alternative, I decided to install TortoiseSVN and use that to create a 
+repository. I didn't use the terminal to do this. I used the file explorer and made the Repo in my
+local disk. It was relatively easy, but I wanted to create from the terminal as it is harder to do. My 
+word document includes all the steps to create a repository.
